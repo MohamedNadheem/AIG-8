@@ -138,7 +138,8 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
-<img width="1914" height="1076" alt="Screenshot 2026-02-27 114758" src="https://github.com/user-attachments/assets/1c6adbe7-5353-4273-b4e1-f0e92ca02599" />
+<img width="1914" height="1076" alt="Screenshot 2026-02-27 114758" src="https://github.com/user-attachments/assets/b969f544-bf78-4683-87e3-61c2c41d4cde" />
+
 
 
 <img width="1919" height="1075" alt="Screenshot 2026-02-27 114954" src="https://github.com/user-attachments/assets/3679e975-1768-4575-8984-2a7531ab70ad" />
